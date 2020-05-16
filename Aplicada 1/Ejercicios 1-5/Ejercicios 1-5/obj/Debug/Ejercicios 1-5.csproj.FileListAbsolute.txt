@@ -1,0 +1,6 @@
+C:\Users\Bleyd\source\repos\NewRepo\Ejercicios 1-5\Ejercicios 1-5\obj\Debug\Ejercicios 1-5.csprojAssemblyReference.cache
+C:\Users\Bleyd\source\repos\NewRepo\Ejercicios 1-5\Ejercicios 1-5\bin\Debug\Ejercicios 1-5.exe.config
+C:\Users\Bleyd\source\repos\NewRepo\Ejercicios 1-5\Ejercicios 1-5\bin\Debug\Ejercicios 1-5.exe
+C:\Users\Bleyd\source\repos\NewRepo\Ejercicios 1-5\Ejercicios 1-5\bin\Debug\Ejercicios 1-5.pdb
+C:\Users\Bleyd\source\repos\NewRepo\Ejercicios 1-5\Ejercicios 1-5\obj\Debug\Ejercicios 1-5.exe
+C:\Users\Bleyd\source\repos\NewRepo\Ejercicios 1-5\Ejercicios 1-5\obj\Debug\Ejercicios 1-5.pdb

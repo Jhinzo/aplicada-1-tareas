@@ -1,0 +1,5 @@
+C:\Users\Bleyd\source\repos\Ejercicios 2. 1-3-5\Ejercicios 2. 1-3-5\bin\Debug\Ejercicios 2. 1-3-5.exe.config
+C:\Users\Bleyd\source\repos\Ejercicios 2. 1-3-5\Ejercicios 2. 1-3-5\bin\Debug\Ejercicios 2. 1-3-5.exe
+C:\Users\Bleyd\source\repos\Ejercicios 2. 1-3-5\Ejercicios 2. 1-3-5\bin\Debug\Ejercicios 2. 1-3-5.pdb
+C:\Users\Bleyd\source\repos\Ejercicios 2. 1-3-5\Ejercicios 2. 1-3-5\obj\Debug\Ejercicios 2. 1-3-5.exe
+C:\Users\Bleyd\source\repos\Ejercicios 2. 1-3-5\Ejercicios 2. 1-3-5\obj\Debug\Ejercicios 2. 1-3-5.pdb
